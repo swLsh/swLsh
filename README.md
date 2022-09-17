@@ -1,7 +1,6 @@
   - 👋 Hi, I’m @swLsh
-- 👀 I’m interested in ... 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in programing 
+- 🌱 I’m currently learning programing, SW
 - 📫 How to reach me ... 010-9858-3656
 
 <!---
