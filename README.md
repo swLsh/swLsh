@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=BDBDC8&height=150&section=header&text=Welcome%20to-nl-Sugnhoon's%20git%20hub" />
+<img src="https://capsule-render.vercel.app/api?type=Rounded&color=auto&height=150&section=header&text=Welcome%20to-nl-Sugnhoon's%20git%20hub&animation=blinking&fontColor=ffffff" />
 
 
 
